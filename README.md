@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mustafa from Turkey
+### Hi there 👋
 - 🔭 I’m self-studying software development.
 - 🌱 I’m currently learning Backend web development
 <!--
